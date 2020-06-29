@@ -10,4 +10,8 @@ The Plugin includes:
 - API for other Plugins
 
 ## Doku:
-```Generate```
+```/generate <World>``` = Generating the Level
+```/setspawn $here``` = Set the Spawn
+```/setup <plot deph> <Plot Width> <Plot bright> <material1>```
+
+
