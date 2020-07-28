@@ -1,6 +1,7 @@
 # HyPlot Documentation
-!! THIS PROJECT IS ONLY A NON-WORKING IDEA!
-HyPlot is an Plot-Plugin/CityBuild-Plugin for Hytale.
+!! THIS PROJECT IS ONLY A NON-WORKING IDEA
+
+HyPlot is not jet an Plot-Plugin/CityBuild-Plugin for Hytale.
 
 The Plugin includes:
 - Secure Database Storage (using SQLite and MySQL)
